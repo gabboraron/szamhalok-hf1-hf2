@@ -1,0 +1,5 @@
+< 3. igény felszabaditás: A<->C st:5
+---
+< 6. igény felszabaditás: B<->C st:10
+< 7. igény felszabaditás: D<->C st:10
+---
